@@ -1,0 +1,13 @@
+Name: gdata
+Short Name: gdata
+URL: https://code.google.com/p/gdata-python-client/
+Version: 2.0.18
+License: Apache License, Version 2.0
+License File: README.txt
+Security Critical: no
+
+Description:
+The Google Data APIs (Google Data) provide a simple protocol for reading and
+writing data on the web. Though it is possible to use these services with a 
+simple HTTP client, this library provides helpful tools to streamline your code
+and keep up with server-side changes.
